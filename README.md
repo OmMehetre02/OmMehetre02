@@ -22,7 +22,7 @@
 
 ## 📂 Projects
 
-- 🏥 Hospital Management System
+
 - 📝 Programming Quiz Web App
 - 📚 DSA Repository
 - 🌸 Greeno Online Flower Shop
