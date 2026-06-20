@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;300%2B+DSA+Problems+Solved;Learning+Spring+Boot+and+Microservices;Building+Scalable+Applications" />
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/om-mehetre-b244b0287/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=OmMehetre02&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=OmMehetre02&style=for-the-badge&color=0e75b6" />
 
 </div>
 
@@ -30,6 +30,7 @@
 - 📍 Pune, Maharashtra, India
 - 🌱 Currently learning **Spring Boot, REST APIs, and Microservices**
 - 💻 Solved **300+ DSA problems**
+- 🔭 Building projects using **Java, JDBC, MySQL, HTML, CSS, and JavaScript**
 - 🎯 Goal: Become a skilled **Software Engineer**
 
 ---
@@ -44,6 +45,16 @@
 
 ---
 
+## 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,maven,postman" />
+
+</div>
+
+---
+
 ## 🌟 Featured Projects
 
 - 📝 Programming Quiz Web App
@@ -53,21 +64,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=OmMehetre02&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OmMehetre02&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=OmMehetre02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmMehetre02&layout=compact&theme=tokyonight&hide_border=true" />
 
@@ -86,6 +87,16 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmMehetre02&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 💬 Developer Quote
+
+<div align="center">
+
+> "Code. Learn. Build. Improve. Repeat."
 
 </div>
 
