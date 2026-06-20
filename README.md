@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Om Dagduba Mehetre
 
-<!--
-**OmMehetre02/OmMehetre02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer | B.Tech CSE Student | DSA Enthusiast
 
-Here are some ideas to get you started:
+- 🎓 B.Tech in Computer Science Engineering (2026)
+- 📍 Pune, Maharashtra, India
+- 🌱 Learning Java Full Stack Development
+- 💻 Solved 300+ DSA problems
+- 🚀 Working on Java, JDBC, MySQL, HTML, CSS, and JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Java
+- JDBC
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Eclipse
+- VS Code
+
+## 📂 Projects
+
+- 🏥 Hospital Management System
+- 📝 Programming Quiz Web App
+- 📚 DSA Repository
+- 🌸 Greeno Online Flower Shop
+
+## 📫 Contact Me
+
+- Email: ommehetrelonar@gmail.com
+- LinkedIn: Add your LinkedIn profile link here
