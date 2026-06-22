@@ -26,7 +26,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Computer Science Engineering (2026)
+- 🎓 B.Tech in Computer Science Engineering
 - 📍 Pune, Maharashtra, India
 - 🌱 Currently learning **Spring Boot, REST APIs, and Microservices**
 - 💻 Solved **300+ DSA problems**
@@ -62,17 +62,20 @@
 - 🌸 Greeno Online Flower Shop
 - 💻 LeetCode Solutions
 
+
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OmMehetre02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=OmMehetre02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmMehetre02&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmMehetre02&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -86,24 +89,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmMehetre02&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmMehetre02&theme=tokyo-night&hide_border=true&cache_seconds=1800" />
 
 </div>
 
 ---
 
-## 💬 Developer Quote
+## 💡 Important Note
 
-<div align="center">
+GitHub stats update only when you push code to GitHub.
 
-> "Code. Learn. Build. Improve. Repeat."
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-</div>
+```bash
+git add .
+git commit -m "Add new solutions"
+git push origin main
